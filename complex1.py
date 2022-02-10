@@ -1,8 +1,15 @@
-Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
-#write a one line code for complex number and print its value
-complex_num = 2 + 2j
-print(complex_num)
-(2+2j)
-type(complex_num)
-<class 'complex'>
+#perform a arithmatic operation on complex number
+a = 2 + 2j
+b = 1 + 1j
+add_complex = a + b
+sub_complex = a - b
+mul_complex = a*b
+div_complex = a/b
+print(add_complex)
+(3+3j)
+print(sub_complex)
+(1+1j)
+print(mul_complex)
+4j
+print(div_complex)
+(2+0j)
