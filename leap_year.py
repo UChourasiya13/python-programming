@@ -1,8 +1,4 @@
-'''x =1
-while(x<11):
-    print(x)
-    x= x+1'''
-#leap year program
+#check enter year is leap or not!!!
 year =int(input("Enter a year: "))
 if (year%400==0):
     print("Year is a leap year")
