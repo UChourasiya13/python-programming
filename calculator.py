@@ -106,7 +106,7 @@ elif op_type=="binary":
         
     else:
         print("OPERATION IS INVALID")
-    
+    print("THANK YOU!!")
     
         
     
